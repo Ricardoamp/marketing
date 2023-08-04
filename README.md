@@ -1,5 +1,7 @@
 <h1 align="center"> ANÁLISE DE DADOS DE MARKETING </h1>
 
+
+
 ## 1.0. Questão de negócio
 Esse projeto, proposto pela Data Science Academy, traz uma análise de campanhas de marketing. O objetivo é construir quatro visões de dashboards no Power BI: Visão cliente, Visão do comortamento de compra do cliente, Visão da Performance das campanhas de Marketing e Visão dos Padrões de Compra no ponto de Venda (País).
 
@@ -43,5 +45,20 @@ Comprou | 0: Não e 1: Sim
 Pais | Pais de origem do cliente
 
 ## 4.0. Exploração dos dados
+Direto no power BI, realizei várias análises e separei as melhores direto nas páginas.
+
+### 4.1. Para a Visão do cliente
+Realizei algumas análises e podemos ter uma visão geral dos clientes.
+
+
+### 4.2. Para a Visão Comportamento
+Aqui podemos tirar alguns insights valiosos, como por exemplo, que a maior parte dos clientes que gastam mais são solteiros com curso superior. Outro insight é que o quantos menos filhos, maiores os gastos.
+
+### 4.3. Para a visão Campanhas
+Aqui podemos observar as compras.
+
+### 4.4. Visão Pontos de Vendas
+Nessa página podemos observar que o maior ponto de vendas são os Estados Unidos.
+
 
 
