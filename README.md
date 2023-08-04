@@ -1,5 +1,6 @@
 <h1 align="center"> ANÁLISE DE DADOS DE MARKETING </h1>
 
+![pag1](./img/pag1.png)
 
 
 ## 1.0. Questão de negócio
