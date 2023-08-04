@@ -50,15 +50,22 @@ Direto no power BI, realizei várias análises e separei as melhores direto nas 
 ### 4.1. Para a Visão do cliente
 Realizei algumas análises e podemos ter uma visão geral dos clientes.
 
+![pag1](./img/pag1.png)
 
 ### 4.2. Para a Visão Comportamento
 Aqui podemos tirar alguns insights valiosos, como por exemplo, que a maior parte dos clientes que gastam mais são solteiros com curso superior. Outro insight é que o quantos menos filhos, maiores os gastos.
 
+![pag2](./img/pag2.png)
+
 ### 4.3. Para a visão Campanhas
 Aqui podemos observar as compras.
 
+![pag3](./img/pag3.png)
+
 ### 4.4. Visão Pontos de Vendas
 Nessa página podemos observar que o maior ponto de vendas são os Estados Unidos.
+
+![pag4](./img/pag4.png)
 
 
 
